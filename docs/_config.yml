@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: JonsGitHub's Repositorium
-email: jonathancarter101@gmail.com
+title: "JonsGitHub's Repositorium"
+email: "jonathancarter101@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   A VERY early build (soon to expand!) of my webpage in an attempt to showcase all the work I have done
   and plan to do in the future. Take a look around!
-baseurl: /jonsgithub.github.io/ # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jonsgithub.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  JonsGitHub
+github_username: JonsGitHub
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
